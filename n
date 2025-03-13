@@ -1,0 +1,11 @@
+#!/usr/local/bin/python
+__version__ = "$Revision: 01 $"
+import string, sys
+class Conversions:
+"""A collection of conversion functions"""
+    if len(sys.argv) < 1:
+        sys.exit(2)
+        assert 0x00 == 00    #well, it better
+
+if __name__ == '__main__'
+    main()
